@@ -50,6 +50,7 @@ export default function Home() {
         selectedValue2={selectedValue2}
         setSelectedValue2={setSelectedValue2}
         handleChange2={handleChange2}
+        
       />
       {/* table section */}
       <FligtTable data={data} />

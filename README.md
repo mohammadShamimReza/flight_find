@@ -1,37 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Name: Find Flight
 
-## Getting Started
+# Live Link(https://flight-find.vercel.app/)
 
-First, run the development server:
+## Complete this task using fresh laravel/Vue JS/React JS or any other language.
+### Answer: React.js(nextjs)
+## Update your readme file how can we run the proejct.
+### Answer: you can run project follow this command:
+    1. first clone the repo
+    2. run: npm i
+    3. run: npm run dev
+## Mention how much time have you spent for this to complete.
+### Answer: 3 hours
+## Mention the best practices you've implemented in your code.
+### Answer: Best practices
+    1. Ensure follow codebase follow well stractered and standard file convention
+    2. variable and funciton name are meaningful
+    3. follower moduler conponent for bettermaintainabillity
+    4. properly commented as industry best practices
+    5. Error are handled through custom error code
+## Provide URLs for two of your live frontend projects.
+### Answer: 
+### project name: Detox-dopamine. live_link: (https://detoxdopamine-web.vercel.app/)
+### project name: Dot-travel. live_link: (https://dot-travel-frontend.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# flight_find
+### Share links to your top two personal Git repositories.
+## project 1. repo link: (https://github.com/Fitraat/Detox-Frontend-web)
+## project 2. repo link: (https://github.com/mohammadShamimReza/dot-travel-frontend)
